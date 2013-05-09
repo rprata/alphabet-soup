@@ -1,7 +1,7 @@
 alphabet-soup
 =============
 
-![IEEE/UERJ Team](/imgs/logo\ IEEE.png)
+![IEEE/UERJ Team](/imgs/logo\ IEEE.png "IEEE/UERJ Team")
 -----------
 This project was developed and is maintained by students of the IEEE/UERJ Student Branch. Contains solved problems for programming marathons (IEEExtreme e SBC). The problems can be found in [UVa Online Judge](http://uva.onlinejudge.org/)
 
