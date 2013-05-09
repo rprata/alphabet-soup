@@ -1,7 +1,8 @@
 alphabet-soup
 =============
 
-This project was developed and is maintained by students of the IEEE/UERJ Student Branch. Contains solved problems for preparation of programming marathons (IEEExtreme e SBC)
+![IEEE/UERJ Team](/imgs/logo\ IEEE.png)
+This project was developed and is maintained by students of the IEEE/UERJ Student Branch. Contains solved problems for programming marathons (IEEExtreme e SBC). The problems can be found in [UVa Online Judge](http://uva.onlinejudge.org/)
 
 
 Maintainers:
