@@ -59,9 +59,8 @@ int main (void)
     	}
 
     	oe=os=0;
-
-        for(int i=1; i<=n; i++)
-            if (Pre[i]==0) BP(0,i);
+        
+        BP(0,inicial);
 
         for(int i=n; i>0; i--)
             for (int j=1; j<=n; j++)
